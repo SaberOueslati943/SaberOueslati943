@@ -14,7 +14,6 @@
 <p align="left">
 I'm a Senior Mobile Engineer from Tunisia 🇹🇳<br><br>
 - 🔭 I’m working as a native Android & iOS developer with 7+ years of experience, specializing in Kotlin (Jetpack Compose) and Swift (SwiftUI)<br>
-- 📚 I'm currently learning advanced architectural patterns and exploring side projects in mobile automation and IoT<br>
 </p>
 
 ###
