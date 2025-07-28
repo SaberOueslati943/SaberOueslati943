@@ -80,7 +80,9 @@ Welcome to my professional portfolio! Below are some of the Android projects I'v
 **Technologies:** Kotlin, Jetpack Compose, MVI, Hilt, Navigation
 
 **📸 Screenshots:**  
-<img src="images/devbuddy/devbuddy1.jpg" alt="App Screenshot" width="300">
+| Screenshot 1 |
+|---|
+| <img src="images/devbuddy/devbuddy1.jpg" width="300"/> |
 
 ---
 
@@ -96,23 +98,14 @@ Built the Android app from scratch using **Kotlin Multiplatform (KMP)** to share
 **Technologies:** KMP, Jetpack Compose, CameraX, FFmpeg, ExoPlayer, Ktor, SwiftUI
 
 **📸 Screenshots:**
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/pitchy/pitchy1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy4.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/pitchy/pitchy1.jpg" width="300"/> | <img src="images/pitchy/pitchy2.jpg" width="300"/> | <img src="images/pitchy/pitchy3.jpg" width="300"/> | <img src="images/pitchy/pitchy4.jpg" width="300"/> |
 
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/pitchy/pitchy5.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy6.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy7.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/pitchy/pitchy8.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+|---|---|---|---|
+| <img src="images/pitchy/pitchy5.jpg" width="300"/> | <img src="images/pitchy/pitchy6.jpg" width="300"/> | <img src="images/pitchy/pitchy7.jpg" width="300"/> | <img src="images/pitchy/pitchy8.jpg" width="300"/> |
+
 
 ---
 
@@ -128,23 +121,13 @@ Migrated UI/UX to Jetpack Compose and SwiftUI, improving responsiveness and perf
 **Technologies:** Jetpack Compose, SwiftUI, CameraX, WorkManager, Shutterstock API, FFmpeg, ExoPlayer, Kotlin, Swift, Realm, OpenGL, Cube Maps, Coroutines
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/kannelle/kannelle1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle4.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/kannelle/kannelle1.jpg" width="300"/> | <img src="images/kannelle/kannelle2.jpg" width="300"/> | <img src="images/kannelle/kannelle3.jpg" width="300"/> | <img src="images/kannelle/kannelle4.jpg" width="300"/> |
 
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/kannelle/kannelle5.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle6.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle7.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/kannelle/kannelle8.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+|---|---|---|---|
+| <img src="images/kannelle/kannelle5.jpg" width="300"/> | <img src="images/kannelle/kannelle6.jpg" width="300"/> | <img src="images/kannelle/kannelle7.jpg" width="300"/> | <img src="images/kannelle/kannelle8.jpg" width="300"/>|
 
 ---
 
@@ -158,14 +141,9 @@ Developed server-side DAL and BL layers using **Ktor** and **Kotlin Coroutines**
 **Technologies:** Kotlin, Ktor, Coroutines, Jetpack, WorkManager, CameraX, Realm
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gppetrol/gppetrol1.png" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppetrol/gppetrol2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppetrol/gppetrol3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppetrol/gppetrol4.png" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/gppetrol/gppetrol1.png" width="500"/> | <img src="images/gppetrol/gppetrol2.jpg" width="500"/> | <img src="images/gppetrol/gppetrol3.jpg" width="500"/> | <img src="images/gppetrol/gppetrol4.png" width="500"/>|
 
 ---
 
@@ -180,24 +158,13 @@ Developed server-side DAL and BL layers using **Ktor** and **Kotlin Coroutines**
 **Technologies:** Kotlin, Jetpack Compose, Firebase, MVVM, Hilt
 
 **📸 Screenshots:**  
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/3andi/andi1.jpg" width="500"/> | <img src="images/3andi/andi2.jpg" width="500"/> | <img src="images/3andi/andi3.jpg" width="500"/> | <img src="images/3andi/andi4.jpg" width="500"/> |
 
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/3andi/andi1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi4.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
-
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/3andi/andi5.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi6.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi7.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/3andi/andi8.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/3andi/andi5.jpg" width="500"/> | <img src="images/3andi/andi6.jpg" width="500"/> | <img src="images/3andi/andi7.jpg" width="500"/> | <img src="images/3andi/andi8.jpg" width="500"/> |
 
 ---
 
@@ -211,14 +178,9 @@ Developed an app to manage and track prepaid card activity.
 **Technologies:** Kotlin, Jetpack Compose, Room, MVVM
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gpcard/gpcard4.gif" alt="App Screenshot" width="300"></td>
-<td><img src="images/gpcard/gpcard1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gpcard/gpcard2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gpcard/gpcard3.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Demo (GIF) | Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|---|---|---|---|
+| <img src="images/gpcard/gpcard4.gif" height="500"/> | <img src="images/gpcard/gpcard1.jpg" height="500"/> | <img src="images/gpcard/gpcard2.jpg" height="500"/> | <img src="images/gpcard/gpcard3.jpg" height="500"/> |
 
 ---
 
@@ -232,12 +194,10 @@ Created an app to help merchants track transactions across multiple websites.
 **Technologies:** Kotlin, Jetpack Compose, Charts, Coroutines
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gpmerchant/gpmerchant1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gpmerchant/gpmerchant2.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img src="images/gpmerchant/gpmerchant1.jpg" width="300"/> | <img src="images/gpmerchant/gpmerchant2.jpg" width="300"/> |
+
 
 ---
 
@@ -251,12 +211,9 @@ Developed a bill management app with built-in payment functionality.
 **Technologies:** Kotlin, Jetpack, MVVM, Payment APIs
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gpfacture/gpfacture1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gpfacture/gpfacture2.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img src="images/gpfacture/gpfacture1.jpg" width="300"/> | <img src="images/gpfacture/gpfacture2.jpg" width="300"/> |
 
 ---
 
@@ -270,14 +227,10 @@ A lightweight app for quickly transferring mobile credit between users.
 **Technologies:** Kotlin, Jetpack, SMS APIs
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gptransfer/gptransfer1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gptransfer/gptransfer2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gptransfer/gptransfer3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gptransfer/gptransfer4.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/gptransfer/gptransfer1.jpg" width="300"/> | <img src="images/gptransfer/gptransfer2.jpg" width="300"/> | <img src="images/gptransfer/gptransfer3.jpg" width="300"/> | <img src="images/gptransfer/gptransfer4.jpg" width="300"/> |
+
 
 ---
 
@@ -291,16 +244,14 @@ Comprehensive app covering all GPG company services.
 **Technologies:** Kotlin, Jetpack Compose, QR APIs, Maps SDK
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/gppay/gppay1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppay/gppay2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppay/gppay3.png" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppay/gppay4.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppay/gppay5.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/gppay/gppay6.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/gppay/gppay1.jpg" width="300"/> | <img src="images/gppay/gppay2.jpg" width="300"/> | <img src="images/gppay/gppay3.png" width="300"/> | <img src="images/gppay/gppay4.jpg" width="300"/> |
+
+| Screenshot 5 | Screenshot 6 |
+|---|---|
+| <img src="images/gppay/gppay5.jpg" width="300"/> | <img src="images/gppay/gppay6.jpg" width="300"/> |
+
 
 ---
 
@@ -315,15 +266,14 @@ Developed a series of Android apps for events organized by **Banque Nationale Ag
 **Technologies:** Kotlin, Jetpack, QR Code APIs, Payment SDKs
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/bna_event/bna_event1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/bna_event/bna_event2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/bna_event/bna_event3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/bna_event/bna_event4.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/bna_event/bna_event5.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/bna_event/bna_event1.jpg" width="300"/> | <img src="images/bna_event/bna_event2.jpg" width="300"/> | <img src="images/bna_event/bna_event3.jpg" width="300"/> | <img src="images/bna_event/bna_event4.jpg" width="300"/> |
+
+| Screenshot 5 |
+|---|
+| <img src="images/bna_event/bna_event5.jpg" width="300"/> |
+
 
 ---
 
@@ -334,10 +284,10 @@ Developed an app designed to help businesses track company cash flow, monitor bi
 **Technologies:** Kotlin, Jetpack Compose, Coroutines, MVVM
 
 **📸 Screenshots:**  
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
-<img src="images/loot/loot1.jpg" alt="App Screenshot" width="300">
-<img src="images/loot/loot2.jpg" alt="App Screenshot" width="300">
-</div>
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img src="images/loot/loot1.jpg" width="300"/> | <img src="images/loot/loot2.jpg" width="300"/> |
+
 
 ---
 
@@ -353,22 +303,14 @@ Developed an Android app for a promotional event in partnership with BNA (Banque
 **Technologies:** Kotlin, Jetpack, QR Code APIs, Digital Wallet Integration, MVVM
 
 **📸 Screenshots:**  
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/tchilla/tchilla1.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/tchilla/tchilla2.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/tchilla/tchilla3.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/tchilla/tchilla4.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/tchilla/tchilla1.jpg" width="300"/> | <img src="images/tchilla/tchilla2.jpg" width="300"/> | <img src="images/tchilla/tchilla3.jpg" width="300"/> | <img src="images/tchilla/tchilla4.jpg" width="300"/> |
 
-<div style="overflow-x: auto;">
-<table><tr>
-<td><img src="images/tchilla/tchilla5.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/tchilla/tchilla6.jpg" alt="App Screenshot" width="300"></td>
-<td><img src="images/tchilla/tchilla7.jpg" alt="App Screenshot" width="300"></td>
-</tr></table>
-</div>
+| Screenshot 5 | Screenshot 6 | Screenshot 7 |
+|---|---|---|
+| <img src="images/tchilla/tchilla5.jpg" width="300"/> | <img src="images/tchilla/tchilla6.jpg" width="300"/> | <img src="images/tchilla/tchilla7.jpg" width="300"/> |
+
 
 ---
 
@@ -387,7 +329,9 @@ Developed a digital signage Android app integrated with Xibo CMS.
 
 **📸 Screenshots:**  
 
-<img src="images/pfe/pfe1.jpg" alt="App Screenshot" width="300">
+| Screenshot 1 |
+|---|
+| <img src="images/pfe/pfe1.jpg" width="300"/> |
 
 ---
 
