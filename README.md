@@ -213,8 +213,6 @@ Developed an app to manage and track prepaid card activity.
 **📸 Screenshots:**  
 <div style="overflow-x: auto;">
 <table><tr>
-  
-
 <td>https://github.com/SaberOueslati943/SaberOueslati943/blob/main/images/gpcard/gpcard4.mp4</td>
 <td><img src="images/gpcard/gpcard1.jpg" alt="App Screenshot" width="300"></td>
 <td><img src="images/gpcard/gpcard2.jpg" alt="App Screenshot" width="300"></td>
