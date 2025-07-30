@@ -80,9 +80,9 @@ Welcome to my professional portfolio! Below are some of the Android projects I'v
 **Technologies:** Kotlin, Jetpack Compose, MVI, Hilt, Navigation
 
 **📸 Screenshots:**  
-| Screenshot 1 |
-|---|
-| <img src="images/devbuddy/devbuddy1.jpg" width="300"/> |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="images/devbuddy/devbuddy2.gif" width="300"/> | <img src="images/devbuddy/devbuddy1.jpg" width="300"/> | <img src="images/devbuddy/devbuddy3.png" width="300"/> | <img src="images/devbuddy/devbuddy4.png" width="300"/> |
 
 ---
 
